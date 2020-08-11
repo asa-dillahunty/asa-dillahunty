@@ -7,14 +7,11 @@
 
 ### Connect with me / Contact me:
 
-[<img align="left" alt="asadillahunty.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Asa | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Asa | Instagram" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][email]
+[<img align="left" alt="asadillahunty.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Asa | LinkedIn" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Asa | Instagram" width="30px" src="https://simpleicons.org/icons/gmail.svg" />][email]
 
-<br />
-<br />
-
-### My Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="JAVA" width="40px" src="https://github.com/github/explore/raw/master/topics/java/java.png" />
 <img align="left" alt="C" width="40px" src="https://github.com/github/explore/raw/master/topics/c/c.png" />
