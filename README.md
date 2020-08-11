@@ -3,6 +3,7 @@
 ## I'm a student at the University of Alabama!
 - :desktop_computer: I'm currenlty the Vice President of the university's student ACM chapter
 - :tennis: I love playing tennis and am involved in the university's club tennis team
+- Currently looking for work
 
 ### Connect with me / Contact me:
 
