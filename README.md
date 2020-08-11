@@ -11,6 +11,7 @@
 [<img align="left" alt="Asa | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Asa | Instagram" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][email]
 
+<br />
 <!-- <br />
 
 ### Languages and Tools:
