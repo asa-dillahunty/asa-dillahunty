@@ -6,7 +6,10 @@
 [<img align="left" alt="Asa | LinkedIn" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Asa | Instagram" width="30px" src="https://simpleicons.org/icons/gmail.svg" />][email]
 
+<br />
+<br />
 
+### Some fun stats
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asa-dillahunty&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
