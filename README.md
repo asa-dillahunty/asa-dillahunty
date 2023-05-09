@@ -10,7 +10,6 @@
 <br />
 ### Because stats are cool
 <br />
-<br />
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asa-dillahunty&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
