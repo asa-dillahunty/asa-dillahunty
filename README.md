@@ -19,4 +19,4 @@
 
 [website]: http://www.asadillahunty.com
 [linkedin]: https://linkedin.com/in/asa-dillahunty
-[email]: mailto:stantondillahunty@gmail.com
+[email]: mailto:asadillahunty@gmail.com
