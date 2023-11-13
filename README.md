@@ -1,22 +1,15 @@
-# Hi there, I'm Asa 👋
+<h1 align='center'> Hi there, I'm Asa 👋 </h1>
 
-### Connect with me / Contact me:
+<h3 align='center'> Connect with me / Contact me: </h3>
 
-[<img align="left" alt="asadillahunty.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Asa | LinkedIn" width="30px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Asa | Instagram" width="30px" src="https://simpleicons.org/icons/gmail.svg" />][email]
-
-<br />
-<br />
-
-### Some fun stats
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asa-dillahunty&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="left" alt="Asa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asa-dillahunty&show_icons=true&hide_border=true" />
-
-
-[website]: http://www.asadillahunty.com
-[linkedin]: https://linkedin.com/in/asa-dillahunty
-[email]: mailto:asadillahunty@gmail.com
+<p align='center'>
+    <a href="http://www.asadillahunty.com">
+        <img alt="My Website | asadillahunty.com" height="35px" margin="10px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/asa-dillahunty">
+        <img alt="LinkedIn" height="35px" margin="10px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:asadillahunty@gmail.com">
+        <img alt="Gmail" height="35px" margin="10px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+</p>
